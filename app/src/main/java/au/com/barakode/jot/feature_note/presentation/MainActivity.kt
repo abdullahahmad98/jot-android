@@ -1,4 +1,4 @@
-package au.com.barakode.jot
+package au.com.barakode.jot.feature_note.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
