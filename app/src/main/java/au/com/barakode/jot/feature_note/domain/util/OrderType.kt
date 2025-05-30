@@ -1,4 +1,4 @@
-package au.com.barakode.jot.feature_note.presentation.util
+package au.com.barakode.jot.feature_note.domain.util
 
 sealed class OrderType {
     object Ascending: OrderType()

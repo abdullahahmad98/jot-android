@@ -2,8 +2,8 @@ package au.com.barakode.jot.feature_note.domain.use_case
 
 import au.com.barakode.jot.feature_note.domain.model.Note
 import au.com.barakode.jot.feature_note.domain.repository.NoteRepository
-import au.com.barakode.jot.feature_note.presentation.util.NoteOrder
-import au.com.barakode.jot.feature_note.presentation.util.OrderType
+import au.com.barakode.jot.feature_note.domain.util.NoteOrder
+import au.com.barakode.jot.feature_note.domain.util.OrderType
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.map
 
